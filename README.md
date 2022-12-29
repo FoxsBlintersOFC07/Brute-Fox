@@ -10,7 +10,11 @@ Só é necessário executar o "bash setup.sh" a primeira vez, da segunda em dian
 Requerimentos: 
 
 python3
+
 Lolcat
+
 Figlet
+
 wget
+
 Tor
